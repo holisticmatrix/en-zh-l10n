@@ -1,7 +1,10 @@
-**Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479**
-**戴夫·普拉默：编程、自闭症以及老微软公司的趣闻轶事**
+# 戴夫·普拉默：编程、自闭症以及老微软公司的趣闻轶事
+Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479**
 
-他的代码，曾在数十亿台电脑上无声运行；他创造的工具，成为全世界用户对抗“卡死”的救命稻草。然而，他的人生剧本远比“微软传奇工程师”的标签更为丰富曲折：从高中辍学、在便利店打工，到凭借一己之力写出改变无数人生活的软件；从对手写机器码的痴迷，到如今在车库裡训练AI打穿经典游戏。
+他的代码，曾在数十亿台电脑上无声运行；他创造的工具，成为全世界用户对抗“卡死”的救命稻草。
+然而，他的人生剧本远比“微软传奇工程师”的标签更为丰富曲折：
+    从高中辍学、在便利店打工，到凭借一己之力写出改变无数人生活的软件；
+    从对手写机器码的痴迷，到如今在车库裡训练AI打穿经典游戏。
 
 在**Lex Fridman 莱克斯·弗瑞曼的这次深度对谈中**，传奇程序员**Dave Plummer 戴夫·普拉默**敞开心扉，讲述了一段关于**痴迷、创造与自我发现**的非凡旅程。你将听到：
 
@@ -14,9 +17,10 @@
 - **从机器码到AI“提示词”**：一位穿越了整个计算时代的“老炮”，如何看待技术的本质与未来？他为何对AI带来的可能性感到兴奋？
     
 
-这不仅仅是一个技术故事，更是一个关于**如何忠于自己的热爱，并用双手构建出独特生命意义**的启示录。无论你是否懂编程，都能从戴夫真诚、幽默且充满智慧的分享中，获得关于创新、韧性与人生的宝贵启发。
+这不仅仅是一个技术故事，更是一个关于**如何忠于自己的热爱，并用双手构建出独特生命意义**的启示录。
+无论你是否懂编程，都能从戴夫真诚、幽默且充满智慧的分享中，获得关于创新、韧性与人生的宝贵启发。
 
-## Table of Contents		
+## 索引
 		
 Here are the loose “chapters” in the conversation. Click link to jump approximately to that part in the transcript:		
 		
@@ -40,12 +44,10 @@ Here are the loose “chapters” in the conversation. Click link to jump approx
 - [1:40:43 – Fastest programming language](https://lexfridman.com/dave-plummer-transcript#chapter17_fastest_programming_language)		
 - [1:44:48 – Future of programming](https://lexfridman.com/dave-plummer-transcript#chapter18_future_of_programming)		
 		
-## Introduction		
-
-**【开场白】**  
+## 【开场白】- Introduction
 
 **Lex Fridman：**  
-这次对谈的嘉宾是戴夫·普拉默——一位程序员、微软元老级工程师，曾参与开发Windows 95、NT和XP系统，创造了诸多影响深远的工具。其中一些作品至今仍被数亿人持续使用，比如大名鼎鼎的Windows任务管理器。没错，就是那个任务管理器！还有Windows内置的ZIP压缩功能也是他的手笔。此外，他还将《太空军校生弹珠台》（即3D弹珠）移植到Windows平台。如今，他运营的YouTube频道"戴夫的车库"深受程序员和工程师喜爱，强烈推荐大家去逛逛。
+这次对谈的嘉宾是戴夫·普拉默 —— 一位程序员、微软元老级工程师，曾参与开发Windows 95、NT和XP系统，创造了诸多影响深远的工具。其中一些作品至今仍被数亿人持续使用，比如大名鼎鼎的Windows任务管理器。没错，就是那个任务管理器！还有Windows内置的ZIP压缩功能也是他的手笔。此外，他还将《太空军校生弹珠台》（即3D弹珠）移植到Windows平台。如今，他运营的YouTube频道"戴夫的车库"深受程序员和工程师喜爱，强烈推荐大家去逛逛。
 
 他还写了一本关于自闭症和人生经历的书《自闭症百万富翁的秘密》，书中分享了如何在自闭症特质下经营人际关系、职业和日常生活的独到见解。总之，这次对谈充满乐趣，我们聊了编程的历史与未来、计算机技术发展，还有在"车库"里创造酷玩意儿的那些事。这里是《莱克斯·弗瑞曼播客》，支持我们请查看简介中的赞助商信息。亲爱的朋友们，有请戴夫·普拉默。
 
@@ -53,42 +55,40 @@ The following is a conversation with Dave Plummer, programmer and an old-school 
 		
 Also, he wrote a book on autism, and about his life story, called Secrets of the Autistic Millionaire, where he gives really interesting insights about how to navigate relationships, career, and day-to-day life with autism. All this taken together, this was a super fun conversation about the history and future of programming, computing, technology, and just building cool stuff in the proverbial garage. This is the Lex Fridman Podcast. To support it, please check out our sponsors in the description, and now, dear friends, here’s Dave Plummer.
 		
-## First computer		
-		
-**## 第一台电脑**
+## 第一台电脑 - First computer
 
 **Lex Fridman:** 跟我讲讲你的第一台电脑吧。还记得吗？  
-**Lex Fridman:** Tell me about your first computer. Do you remember?
+Tell me about your first computer. Do you remember?
 
 **Dave Plummer:** 记得特别清楚。虽然很久后才真正拥有自己的电脑，但第一次接触是台TRS-80 Model 1基础版，4K内存。那时我大概十一岁，读五六年级，经常骑车去当地的RadioShack商店。店里除了音响设备，有次堆着几个标着"电脑"的箱子。我问店员，他们说刚进货还没拆封。我当时胆子挺大，就说"要不我帮你们组装？"他们居然答应了："行啊，你试试看。"  
-**Dave Plummer:** I do. I didn't own my first computer for a long time, but the first computer I ever used was a TRS-80 Model 1, Level 1, 4K machine, and I rode my bike in fifth or sixth grade, so I was about 11, to the local RadioShack. They had the standard component stereo systems, everything else RadioShack had, but they had a stack of boxes that was labeled "computer." So I was asking the people who worked there about it, and they said they just got it and they hadn't set it up yet. I was rather precocious and I figured, "Well, I'll set it up for you," and they said, "Okay. Have a shot."
+I do. I didn't own my first computer for a long time, but the first computer I ever used was a TRS-80 Model 1, Level 1, 4K machine, and I rode my bike in fifth or sixth grade, so I was about 11, to the local RadioShack. They had the standard component stereo systems, everything else RadioShack had, but they had a stack of boxes that was labeled "computer." So I was asking the people who worked there about it, and they said they just got it and they hadn't set it up yet. I was rather precocious and I figured, "Well, I'll set it up for you," and they said, "Okay. Have a shot."
 
 **Lex Fridman:** 当时知道怎么组装吗？  
-**Lex Fridman:** Did you know what you were doing?
+Did you know what you were doing?
 
 **Dave Plummer:** 完全不懂。不过想着应该比组合音响复杂不到哪去。麻烦的是坦迪公司把电源、视频、磁带接口都做成了相同的五针DIN口，插错了会烧机器。我对照标签装好后开始瞎鼓捣，因为对电脑一窍不通，就试着输入英文命令——像PRINT 2+2这种能运行，但对基础解释器输入更复杂的英语就没用了。  
 **Dave Plummer:** Absolutely not. I mean, it's no worse than a component stereo. The only thing is that Tandy, in their infinite wisdom, used the same five-pin DIN connector for power, video, and I think cassette, so they were all identical, and if you plugged them in wrong, you'd blow it up. So I read the label and got it working and wound up playing with it and not knowing anything about computers. So I'm typing English commands into it and, you know, PRINT 2+2 works perfectly, yet more simple English that you enter into a basic Level 1 interpreter is not going to get you very far.
 
 **Lex Fridman:** 所以你在试着用英语和电脑对话？  
-**Lex Fridman:** So you're trying to talk to it in English?
+So you're trying to talk to it in English?
 
 **Dave Plummer:** 那时候只能这样。我六年级在作文纸上写的程序现在还留着，那程序逻辑看似通顺，但根本不可能在当时任何解释器上运行。后来我每周四六都骑车去店里，他们很包容地让我用电脑。  
 **Dave Plummer:** Didn't know any better. And I still have an old foolscap that I wrote in sixth grade of a program that's kind of illogically correct but has no chance of working on any interpreter that existed at the time, so it took me a while to figure out what was actually going on with them. But I rode my bike down there every Thursday and Saturday, and they were gracious to let me use the machine.
 
 **Lex Fridman:** 具体是哪年？  
-**Lex Fridman:** When was this?
+When was this?
 
 **Dave Plummer:** 79到80年左右。  
 **Dave Plummer:** '79, '80.
 
 **Lex Fridman:** 那时候电脑发展到什么水平了？  
-**Lex Fridman:** Okay. What was the state of the art of computing back then? So what are we talking about?
+Okay. What was the state of the art of computing back then? So what are we talking about?
 
 **Dave Plummer:** 三大主流机型刚问世：TRS-80 Model 1、PET 2001和苹果II差不多同期出现。  
 **Dave Plummer:** Well, the big three had come out. There was the TRS-80 Model 1, there was the PET 2001, and the Apple II came out roughly simultaneously.
 
 **Lex Fridman:** 苹果II算得上最伟大的电脑吗？  
-**Lex Fridman:** Apple II. Would you say that's the greatest computer ever built?
+Apple II. Would you say that's the greatest computer ever built?
 
 **Dave Plummer:** 事后看也许吧。不过我个人更倾向Commodore 64。  
 **Dave Plummer:** Probably in retrospect. Well, I would probably give that to the Commodore 64.
@@ -106,7 +106,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Yeah. I mean, the numbers are hard to believe. It depends which numbers you believe, but even the medium estimates were pretty high.
 
 **Lex Fridman:** 后来你也用上Commodore 64了？聊聊在那台机器上做什么吧。  
-**Lex Fridman:** All right, cool. So you eventually graduated to the Commodore 64. Tell me about that machine. What did you do on the Commodore 64?
+All right, cool. So you eventually graduated to the Commodore 64. Tell me about that machine. What did you do on the Commodore 64?
 
 **Dave Plummer:** 首秀就把软驱烧了——因为是从电脑小店买的二手货，坏了得寄回德国修。我只能用磁带录音机存储程序，靠着机器语言监视器，用十六进制输入6502操作码写基础程序。  
 **Dave Plummer:** Well, the first thing I did was overheat the floppy drive on it, which was unfortunate because it wasn't a warranty machine. My parents didn't have a lot of money so we bought it from Computer House as opposed to one of the major retailers, which meant when it died, it had to go back to Germany or something to be fixed. So I was left with no floppy and so I had a cassette deck, which was the best you could do at the time, and so I was writing small things, and I had a machine language monitor that you could load from cassette. It didn't have an assembler built in, but it had a disassembler, so you could enter the op codes in 6502 in hex, and if you were careful about planning, you'd be able to write some basic programs.
@@ -169,7 +169,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** I did.
 
 **Lex Fridman:** 什么时候爱上编程的？当你意识到这玩意很特别的时候。  
-**Lex Fridman:** All right. When did you first fall in love with programming? When you figured out, like, this is a, this is something special.
+All right. When did you first fall in love with programming? When you figured out, like, this is a, this is something special.
 
 **Dave Plummer:** 分两个阶段。从接触TRS-80开始就着迷到每周骑车去店里泡着。大学二三年级时意识到："我热爱编程，但不知道毕业后要做什么——是去搞录像机闪烁显示？还是开发操作系统？不过既然热爱，船到桥头自然直。"  
 **Dave Plummer:** … I think there was two stages for me. I always knew immediately that I was fascinated with these machines, from the TRS-80 Model I. It's all I wanted to do was ride my bike back there and have more time with it. And I did that, you know, to wear out my welcome as much as I could. And the other revelation came, I think about second or third year of university when I realized, "I love programming, but I have no idea what I'm going to do. Am I going to make the 12 flash on a VCR somewhere? Or am I going to go work on an operating system? I have abso- absolutely no idea what I'm going to do post-graduation. But I love what I do." And so, I think that was a lot of consolation. It's like, it doesn't really matter what I'm doing at this point, 'cause I kind of love doing it, so…
@@ -180,7 +180,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** 那时终于确信自己选对了路。  
 **Dave Plummer:** I knew I was in the right area, finally. Yeah.
 		
-## Dropping out of high-school		
+## 辍学的岔路与回归 - Dropping out of high-school
 		
 **Lex Fridman:** 我明白了。对了，听说你高中时有过一段辍学的经历？  
 **Lex Fridman:** Yeah. All right. You dropped out of high school.
@@ -222,7 +222,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Right.
 
 **Lex Fridman:** 一旦你意识到不必随大流，你的人生可能会走向非凡，但也可能面临更多挑战。  
-**Lex Fridman:** And if you realize you don’t have to do what everybody else is doing, you can either have an incredible life or a really difficult life.
+And if you realize you don’t have to do what everybody else is doing, you can either have an incredible life or a really difficult life.
 
 **Dave Plummer:** 问题的关键在于，你每次做的都只是个小决定："今天就逃一次课而已"。但这样的小决定累积起来，不知不觉就变成了影响一生的大决定。这才是最需要警惕的。  
 **Dave Plummer:** Well, the problem with that process is you’re making a much smaller decision. “I’m just not gonna go to class today.” And that’s all you’re deciding, but you do that enough times, you’re making a much bigger decision. And that’s the problem.
@@ -246,7 +246,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Well, ideally, there’s some aspect of school that you do enjoy, whether it’s art, whether it’s computer science, whether it’s shop class, whatever. So, go for those classes and just put up with and do the hard stuff because it’s way easier than having to do it later, and that’s easy to say when you’re 50-something. It’s harder to say when you’re 15-something, but— … it makes a lot of sense.
 
 **Lex Fridman:** 谢谢你的真诚分享。我很好奇你是如何从7-Eleven店员一步步走进微软的？这个转变听起来像个奇迹。  
-**Lex Fridman:** All right. What’s the story of you joining Microsoft? How did we get there from 7-Eleven to Microsoft?
+All right. What’s the story of you joining Microsoft? How did we get there from 7-Eleven to Microsoft?
 
 **Dave Plummer:** 确实是个巨大的跨越。我重返校园后，大概在大学三年级暑假，我在电话公司做暑期工，负责把他们的UBNet网络升级到TCP/IP。这工作听起来高大上，其实主要就是换网卡，然后排查为什么换了配置后Lotus软件就跑不起来了——那个年代搞计算机真是各种折腾，但我还是坚持下来了。午休时，我常和同事们坐在美食广场，读一本叫《微软：比尔·盖茨与微软硬盘驱动器的诞生》的书。  
 **Dave Plummer:** Yeah, it’s a big jump. So, I had gone back to school, and I think it was in my third year of university. I was working for the phone company for the summer as a summer job, and I’m doing conversions of their UBNet to TCP/IP and modern networking, which really amounts to swapping cards but then figuring out why their config.sys doesn’t allow Lotus to run anymore because it’s got 10K less than it used to, and it’s just a horrible time to be working in computers, but I was doing it. And at lunch, I’m sitting in the food court with the old and the bored, and I’m reading a book that I had bought called “Microsoft or Bill Gates and the Making of Microsoft Hard Drive,” I think is the title. And it’s a great book.
@@ -290,10 +290,8 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** （眼神温暖地回忆）这个过程很有意思。我最初是在Usenet和Amiga论坛上发帖，提供30天试用版让大家体验。后来渐渐有了口碑，被几家零售商看中。我永远记得那个场景：我和现在的妻子坐在她的车里，她那时有个手机——因为她父亲特别担心她的安全。那是80年代末，车顶装着天线，后备箱里放着硕大的手机主机。突然接到一家软件零售商的电话，要采购50份，每份20美元。对当时的我来说，1000美元简直是天文数字。后来陆续又有几家公司批量采购，就这样慢慢做了起来。  
 **Dave Plummer:** Yeah, it's interesting. I think I started on Usenet and some of the Amiga forums, posted, "Here's my trial version, try it out for 30 days, see what you like." And eventually it got picked up by a few retailers, and I remember I was with my… Now wife in her car, and she had a cell phone, because her dad was very concerned about her safety. And so this is late '80s, and she's got, you know, the antenna on the roof and the big box in the trunk, the whole deal. But we got a call from one of the software retailers that wanted to buy 50 copies at… 20 Bucks, which to me is a thousand bucks, which in 1989 or whatever year it is was a big deal. And so eventually a number of companies just bought inventory.
 		
-## Joining Microsoft		
+## <font color="#002060">加入微软 - Joining Microsoft </font>
 		
-**## 加入微软**
-
 **Lex Fridman:** 咱们聊聊那个年代吧。比尔·盖茨和微软的崛起期太有意思了。你觉得当时微软为什么能统治软件和个人电脑领域，而且这种优势还能持续几十年？  
 **Lex Fridman:** Let's go to that time. It's such an interesting time with Bill Gates and Microsoft. Why do you think Microsoft was dominating the software and the personal computing space at that time and, and really for many, many, many years after?
 
@@ -324,7 +322,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** So they experimented with it, but it's largely a command prompt.
 
 **Lex Fridman:** 它能与外部设备通信吗？比如驱动程序之类的？MS-DOS作为一个操作系统，它的功能范围有多大？  
-**Lex Fridman:** Does it have the ability to communicate with external devices, so drivers and all that kind of stuff? How expansive of an operating system was MS-DOS?
+Does it have the ability to communicate with external devices, so drivers and all that kind of stuff? How expansive of an operating system was MS-DOS?
 
 **Dave Plummer:** 它受限于最初的x86指令集，内存被限制在640K。然后人们在上面打了各种"补丁"来实现高端内存和扩展内存，想方设法让程序运行时不占用基本内存，得费很大周折。  
 **Dave Plummer:** Well, it was limited by the original x86 instruction set, which limited it to 640K. And then there were various Band-Aids on top of that to do high mem and then extended memory beyond that, and a lot of hoops have to be jumped through to make anything work without consuming base RAM.
@@ -368,7 +366,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Windows 95 is an evolution of the original 16-bit Windows 3.1, which was the very first popular version of Windows. And it adds 32-bit support, then VxD drivers and a bunch of new technology and an entirely new user interface. And it's something that at the time was revolutionary. The people lined up at night to wait in line to buy the thing.
 
 **Lex Fridman:** 你能带我们回到那个时代，描述一下为什么95相对于3.1是一个巨大的飞跃吗？毕竟苹果早就有图形界面了，Windows 3.1也有图形界面。为什么Windows 95如此不同凡响？  
-**Lex Fridman:** Can you just take us back to that time and describe why 95 was such a big leap from 3.1? So Apple already had a graphical interface. Windows 3.1 had a graphical interface. Why was Windows 95 such a gigantic leap?
+Can you just take us back to that time and describe why 95 was such a big leap from 3.1? So Apple already had a graphical interface. Windows 3.1 had a graphical interface. Why was Windows 95 such a gigantic leap?
 
 **Dave Plummer:** 我不想简单归功于开始菜单，虽然它确实是重要部分……但我记得第一次看到95时，我说不清具体是哪里不同和出色，但我就知道自己想成为它的一部分，这也就是为什么我开始写Shell扩展，后来这个扩展变成了Zip文件夹功能。我就是被这个新的Shell深深吸引，所以才最终加入了那个将Shell移植到NT（也就是今天Windows的基础）的团队。  
 **Dave Plummer:** I don't want to make it as basic as the Start menu, but I think… …It's a big part of it. I know when I first saw it… …I couldn't quantify what about it was different and awesome, but I realized that I wanted to be a part of it, and that's why I started writing a Shell extension, which became Zip folders at some point. But I was just fascinated by the new Shell, and that's why I wound up working on the team that brought that Shell over to the NT and what's Windows today.
@@ -416,7 +414,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** …pointers. It's quite a mess when you switch the code over, as you can imagine.
 
 **Lex Fridman:** 能给我们讲讲移植工作具体涉及什么吗？  
-**Lex Fridman:** Can you give us insights into what is involved in porting?
+Can you give us insights into what is involved in porting?
 
 **Dave Plummer:** 这就像闯进别人家里，翻遍他们所有的东西，看到他们不想让你看到的抽屉里的内容。你会发现好东西，比如墙上挂的漂亮画作，也会在床头柜里发现一些令人不安的东西。我见过有代码一行有200个字符那么宽，里面还有脏话。到我离开的时候，这些代码多年来都被清理干净了。但当时的代码并不总是世界上最专业的。  
 **Dave Plummer:** It's like breaking into somebody's house and going through all their stuff and seeing the stuff in their drawers that they didn't want you to see. You find all the good stuff, the pretty pictures hanging on the wall, and you find some disturbing stuff in the nightstand. I saw code that was like 200 characters wide with, you know, profanity and swears in it. It eventually got all cleaned up over the years by the time I left. But it was not always the most professional code in the world.
@@ -453,7 +451,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** And it’s not that there weren’t other people that contributed, of course, huge pieces to it. But I think he’s the driving force behind it and always largely has been. And he’s still… I think he’s 85 now. He still codes every day. He’s a Microsoft Fellow. He, as far as I know, still goes into work, so…
 
 **Lex Fridman:** 能说说他的过人之处吗？和他共事、接触后，你觉得他思维方式最特别的地方是什么？  
-**Lex Fridman:** Can you speak to the genius of that guy? Like, what’s interesting about his mind, having worked with him, having interacted with Dave Cutler?
+Can you speak to the genius of that guy? Like, what’s interesting about his mind, having worked with him, having interacted with Dave Cutler?
 
 **Dave Plummer:** 他不仅聪明绝顶，还有点儿像老农——会盯着你把事情做对、做好，绝不允许任何垃圾代码混进他的操作系统。在这方面他是个严师，但我觉得这很值得，因为让微软的开发者适应戴夫那种数字设备公司的强硬风格，本身就是一个巨大的范式转变。  
 **Dave Plummer:** Well, the dude’s wicked smart, but he’s also like a farmer. He’s like the guy that will follow you around and make sure that stuff gets done and gets done right to make sure that you’re not checking any crap into his operating system. And he won’t tolerate it. And he’s a real taskmaster in that regard, but I think it really paid off ’cause it was a very big paradigm shift for Microsoft developers to be subjected to the Dave Cutler Digital Equipment style of leadership.
@@ -569,7 +567,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** …the NT source code.
 
 **Lex Fridman:** 顺便问下，我好像见你在推特还是哪儿说过，要想认真对待断言，就把家里电话写进去。这招确实狠。  
-**Lex Fridman:** Can you speak to the assert thing? By the way, I saw, I think you tweeted or you said somewhere that if you want to take your asserts really seriously, you add your home phone number in there. It's true, it's true.
+Can you speak to the assert thing? By the way, I saw, I think you tweeted or you said somewhere that if you want to take your asserts really seriously, you add your home phone number in there. It's true, it's true.
 
 **Dave Plummer:** 带点玩笑性质，虽然可能不是最明智的做法……  
 **Dave Plummer:** A little facetious, because it's probably not the smartest thing, but…
@@ -581,7 +579,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** …you will find out.
 
 **Lex Fridman:** 不过断言本身就很严肃了，它会中止所有执行。这正是我特别喜欢断言的原因——它强迫你必须解决问题。  
-**Lex Fridman:** But I mean, assert by itself is already a serious thing, because it stops all execution. I mean, this is one of the reasons I really, really love asserts, because they stop everything and force you to take care of the problem.
+But I mean, assert by itself is already a serious thing, because it stops all execution. I mean, this is one of the reasons I really, really love asserts, because they stop everything and force you to take care of the problem.
 
 **Dave Plummer:** 我对断言也有点执念。我不会对"希望不成立"的事情做断言，只断言那些"绝不可能成立"的情况。我觉得这才是断言的本意。虽然像是废话，但一旦触发就肯定是bug，不是警告。  
 **Dave Plummer:** Yeah, I'm a little religious about my asserts too. I don't assert things that I hope aren't true. I assert things that I know cannot be true, and I think that's really the intent of an assertion. So I'm overstating the obvious, but when it does occur, it's a bug, plain and simple. It's not a warning.
@@ -692,7 +690,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** You say it like it's a bad thing.
 
 **Lex Fridman:** 角度问题嘛。来聊聊这段故事——Windows激活是怎么回事？你怎么参与的？  
-**Lex Fridman:** Everything's a matter of perspective. So tell the story of that. What's Windows activation? How'd you get involved?
+Everything's a matter of perspective. So tell the story of that. What's Windows activation? How'd you get involved?
 
 **Dave Plummer:** XP开发末期他们找到我（不确定是否已发布测试版）。原本计划将Office的激活代码适配到Windows，但负责人一再延期。我因为擅长快速解决问题而被选中，最终在DRM团队和密钥算法研究组的协助下，赶在XP发布前完成了这套系统。虽然不清楚具体提升多少收入，但强制验证许可证肯定意义重大。  
 **Dave Plummer:** So they came to me late in the XP ship process. I don't know if the beta had gone out. I don't think the beta had gone out yet, but they had intended to take the Office activation code and then adapt it to Windows and add activation to Windows. But whoever was responsible for doing it had slipped it enough times that it wasn't going to happen. So I had kind of a reputation for being able to fix things quickly, so they came to me and said, "Can you get this done in time for XP?" "I don't know, but I'll try." So with the help of the guys that were doing the DRM stuff on the DRM side and the research guys doing the math for the product keys and everything else, we cranked it out in time for XP. And I don't know what its actual impact is for revenue, but I imagine it's substantial when you start enforcing license keys.
@@ -747,7 +745,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Lex Fridman:** Right. I think I've always— I'm glad Apple exists. It's a beautiful thing, and that idea of design is wonderful, but I always thought that Windows creates the contrast. The point of Windows is to be the operating system that works on all kinds of devices, that's supposed to be much more open. And they've moved towards that direction more and more with Windows Subsystem for Linux. It's just this whole developer-friendly ecosystem. The interface should be in the spirit of that, I think. But I do think that there could also be security vulnerabilities created with that. It's not just the complexity of the code, because Windows is just under attack. It's very difficult to keep it secure.
 
 **Lex Fridman:** 话说回来，你还开发了 Windows 的 ZIP 文件支持功能，创造了 Visual ZIP，后来演变成系统自带的 ZIP 文件夹。聊聊这个故事吧。  
-**Lex Fridman:** Anyway, taking that tangent, you also developed ZIP file support for Windows, creating Visual ZIP, which eventually evolved into ZIP folders. Tell the story of that.
+Anyway, taking that tangent, you also developed ZIP file support for Windows, creating Visual ZIP, which eventually evolved into ZIP folders. Tell the story of that.
 
 **Dave Plummer:** 这又是我在家鼓捣的副业。1993 年有个周日下午，我和妻子开车看房时见到一栋漂亮的三居室，车道上停着辆 93 款红色科尔维特敞篷车，总价 30 万美元——我当时根本负担不起。我把房源广告上的房子照片剪下来贴显示器上，每晚写代码时就看着它激励自己。一方面是想释放白天修 bug 无法满足的创造力，另一方面也想赚点外快。  
 **Dave Plummer:** So that was a piece of software that I wrote at home again, and what happened was, I was out with my wife, and I think it was a Sunday afternoon. We were driving around. This is 1993, and we're living in our apartment, and we're just seeing what the housing market is like out there. And there's a guy, he's got this beautiful three-bedroom house and a Corvette convertible, '93 red, torch red, parked in the driveway, and the house is for sale, and it's like 300K, I think. And there's no chance I'm coming up with 300K at that point, or even the down payment on that. So I took the flyer, and I cut the picture of the house out, and I taped it to my monitor. And that was my incentive to just write something at night, because when I came home, I was doing two things. I was, one, expressing a creativity that I couldn't get out at work when I was just fixing bugs, and I was trying to make some extra money.
@@ -762,13 +760,13 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** They had just cold-called the author and then found out that it was me. And so they made me an offer on it, and it's the kind of thing where if I don't accept the offer, well, now my choices are: I can keep selling my own version and quit Microsoft, or I can stop selling my own version and work for Microsoft. Neither of those is great. I mean, I'd like to keep my job, of course, but I'd like to still— …have this income stream. And the other option was accept their offer, which is what I did. So then I bought a used '93 red Corvette, and…
 
 **Lex Fridman:** 之后你还在内部继续开发这个功能？  
-**Lex Fridman:** And you got to continue building it internally?
+And you got to continue building it internally?
 
 **Dave Plummer:** 对，但删减了不少功能。比如当时加密技术属于军用品管制，不能随意添加到系统组件中，多卷压缩支持也为了简化而移除。  
 **Dave Plummer:** I did. So we took a lot of features out, right, to simplify, because it had encryption, and it had a number of features that were common in ZIP programs of the day, but probably weren't appropriate for Windows. And, at the time, encryption was like a munition, so you couldn't just add encryption willy-nilly to various parts of the operating system, so we took out some things like that. Multi-volume support, I think, was taken out just to simplify it.
 
 **Lex Fridman:** 能聊聊 ZIP 格式的历史和压缩技术吗？  
-**Lex Fridman:** Can you speak to ZIP in general, just the history of ZIP and, you know, compression, that whole thing?
+Can you speak to ZIP in general, just the history of ZIP and, you know, compression, that whole thing?
 
 **Dave Plummer:** 它诞生于 BBS 时代，人们用调制解调器下载共享软件时需要压缩传输。Phil Katz 开发的 MS-DOS 命令行工具 PKZIP 成为行业标准，虽然他本人结局比较悲剧。到 Windows 时代，用户已经积累了十年的 ZIP 文件，系统原生支持就成了刚需。  
 **Dave Plummer:** Yeah, it was really borne out of the BBS era when people were dialing in on modems to download trialware and shareware and other things from BBSs online and to compress them. Executables compressed about half their size. Other stuff compresses much more. But a guy named Phil Katz came up with a command-line program for MS-DOS called PKZIP, which was able to do compression of programs, and he has a rather tragic arc. But it became ubiquitous in the entire PC industry, and pretty much everybody was using it. So when Windows came out, there was no way to open up a ZIP file, but everybody had been creating them for a decade, and so that really drove the desire to have the ZIP support right in Windows.
@@ -807,7 +805,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** I think there's two major things that happen with computers as you run them over time. One is memory gets used and not freed. And so it accumulates on the heap or in the swap file or wherever, and things get sluggish. And the other is, code gets into a state that the developers didn't anticipate or didn't test very well. And maybe that's a rare state, but now that Notepad or Word or Excel is in that state, your system is goofy. So if you just reboot the thing or shut it down or restart it, you're getting a fresh state and there are no memory leaks, so it covers a lot of sins, basically.
 
 **Lex Fridman:** 而且多个异常程序相互影响会产生"复合异常"，导致整个系统行为诡异。你在微软期间见过最好和最烂的代码分别是怎样的？  
-**Lex Fridman:** And the intricate ways that several pieces of software in a goofy state interact with each other creates sort of a meta goofy state that just the entire system starts acting a little weird. And then somehow fixes it. What are some of the best and the worst code you've seen during that time at Microsoft? What's some beautiful code and what's some ugly code that pops to memory?
+And the intricate ways that several pieces of software in a goofy state interact with each other creates sort of a meta goofy state that just the entire system starts acting a little weird. And then somehow fixes it. What are some of the best and the worst code you've seen during that time at Microsoft? What's some beautiful code and what's some ugly code that pops to memory?
 
 ## Best programmers		
 		
@@ -839,19 +837,19 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** For me, it's been C++ and assembly language. And still to this day, C++ is really what you lean on? Yeah, right now I'm 100% Lua and Python, but that's just a side project I'm working on.
 
 **Lex Fridman:** 能聊聊为什么转向Lua和Python，以及你钟爱C++的原因吗？  
-**Lex Fridman:** Can you speak to the Lua and the Python detour that you took, and what do you love about C++?
+Can you speak to the Lua and the Python detour that you took, and what do you love about C++?
 
 **Dave Plummer:** 我在开发一个玩《Tempest》的AI——这是款1980年的3D矢量游戏，我保持着它的世界纪录。我先逆向工程了游戏ROM，分析内存布局和变量位置，然后用Lua提取游戏运行时数据，通过Socket传给Python端进行强化学习（使用Dueling Deep-Q网络）。目前AI能玩到36关，远超普通人类水平。  
 **Dave Plummer:** What I'm doing is I wanted to build an AI to play the game Tempest. That's the old Atari game, Tempest. This is a game that I actually hold the world record on. So it's a 3D vector game from 1980. And it's a very complex game. You've got full 360 degrees of motion, you have eight shots on the screen, there are like 11 enemies, there are spikes. So it's a very complex game. It's not like trying to do Pong or something. And what I wound up doing was first taking the ROMs out of the machine and reverse engineering the code. So I got a sense of where all the code in Tempest lives and what it does, where the zero-page variables are, where things live. And yeah, there's one. So long story short, it's a fairly complicated game to play well, and I wanted to see if I could get an AI to do it. So once I had figured out where all the interesting parts of the game lived in memory, I added them as parameters and built a Lua app to extract everything from the game's memory as it's running and puts them together as parameters, which sends it to the Python side over a socket, and then the Python side does RL learning. I'm using a dueling Deep-Q, and I believe… Two with two head and tail, and they chase each other and it can play up to about level 36 now, which is way better than most humans. But that's level 96, so it's got a ways to go yet.
 
 **Lex Fridman:** （看着游戏画面）你是控制这个红色物体射击？操作只有顺时针/逆时针旋转和射击？  
-**Lex Fridman:** And you're the red thing shooting? Yes. You're controlling the red thing that's shooting? Okay. What are the options? You can just move clockwise or counterclockwise and then you could shoot.
+And you're the red thing shooting? Yes. You're controlling the red thing that's shooting? Okay. What are the options? You can just move clockwise or counterclockwise and then you could shoot.
 
 **Dave Plummer:** 对，通过光学旋转编码器控制方向，加上射击键和紧急清屏的"超级 zap"键。  
 **Dave Plummer:** Yeah, so you have a rotating knob- …which is an optical spinner, and you have a fire button and a super zapper for emergencies. But that's it. Fire and rotate, basically.
 
 **Lex Fridman:** 回到C++——你为什么多年来一直偏爱它？  
-**Lex Fridman:** All right, let's get back to your favorite C++. What do you love about C++? Why have you stayed with it for all these years?
+All right, let's get back to your favorite C++. What do you love about C++? Why have you stayed with it for all these years?
 
 **Dave Plummer:** 因为它能让我用类来封装最爱的C代码。其实我主要写两种风格的C++：一种是现代C++20，避免使用指针和C风格字符串，安全性堪比Rust；另一种是"C with classes"，在标准C基础上加入多态和封装。  
 **Dave Plummer:** Because it allows me to encapsulate my favorite C code in classes. I'm not a big- Well, I actually- Yeah, I'm really a C guy. Although I write two kinds of C++. I write really modern C++ 20 using no pointers, no strings, or no character strings, so there are… you know, it's basically as safe as Rust as far as I'm concerned. Or I write C with classes, which is standard C, but, you know, with polymorphism and encapsulation. That's most of what my code is, but I try to do both.
@@ -893,7 +891,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Yeah, I would much rather pay $199 for Windows Pro per year, or 20 bucks a month, or whatever the fee schedule would be, and not be upsold any further and not have my data monetized, and those kinds of things, so…
 
 **Lex Fridman:** 这段充满挑战的经历，是否让你对技术中的人性平衡有了更深的理解？  
-**Lex Fridman:** Did you learn about finding the right balance from that?
+Did you learn about finding the right balance from that?
 
 **Dave Plummer:** （目光柔和）它让我学会用更温暖的视角看待技术。过去我效仿广告大师奥格威的"柠檬"广告模式——用争议性标题吸引注意，再用真诚内容赢得信任。但作为自闭症患者，我现在才真正理解：每个人对信息的感知都带着独特的情感滤镜。我原本想激发用户"贪便宜"心理的文案，在别人看来可能像是威胁。技术不仅是代码和逻辑，更是人与人心灵的桥梁。现在的我，会更用心聆听桥对面的声音。  
 **Dave Plummer:** Yeah, I mean, I'm way more self-aware now. There are things I would do much differently, particularly in terms of the advertising. I always figured… There's a guy named David Ogilvy, and he did this ad long ago for the Volkswagen Beetle where it had a picture of a Beetle, black and white, and it just said, "Lemon," and there was a block of text below it. So it's clickbait-y and then informational, and I always tried to follow that pattern. But there are three ways to sell something, I think, and you can use sex, fear, or greed. Sex doesn't work really well for software. Fear works well for antivirus and stuff, but not so much for optimization and make your computer faster utilities. And so I always tried to cater to the greed aspect. You know, make your computer faster, get more RAM available, whatever the value proposition is. But I realize now that I'm looking at that with my knowledge, and as an autistic person, I now have an appreciation that other people are going to look at it with their background knowledge and may conclude something different. So I might be scaring people where I was just trying to incentivize or get their greed instinct going. So I'd be more sensitive about that kind of thing today.	
@@ -933,7 +931,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Yeah, I liked it. I mean, it doesn't have the visual flash that came with XP, but as a system, and especially as a server operating system, it was great for the day.
 
 **Lex Fridman:** 不过从完整性、影响力和生命周期来看，XP可能是面向消费者的Windows中最伟大的版本。  
-**Lex Fridman:** But then XP was, hmm, I would say probably from a completeness perspective and impact and how long it lasted, it was probably the greatest Windows for consumers, the operating system.
+But then XP was, hmm, I would say probably from a completeness perspective and impact and how long it lasted, it was probably the greatest Windows for consumers, the operating system.
 
 **Dave Plummer:** 我也这么认为。它的生命力确实惊人，现在还有人在使用。要不是安全更新问题，我可能还会在某些场景用XP——它能满足我98%的Windows需求。  
 **Dave Plummer:** I would think so. It's certainly got the longevity for it. There are people who still run it. I mean, I'd still run it on stuff if you could get security updates 'cause it does 98% of what I need Windows to do, but…
@@ -951,7 +949,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Right.
 
 **Lex Fridman:** 既要简洁又不能功能残缺。还有蓝屏死机的频率等等因素。  
-**Lex Fridman:** But not overcomplicated. How often it crashes to blue screen. All of those things.
+But not overcomplicated. How often it crashes to blue screen. All of those things.
 
 **Dave Plummer:** 不知道这个比喻是否恰当——我觉得好的系统应该给人"利落"的感觉。没有太多粗糙的边缘，该有的功能响应迅速，运行干脆……  
 **Dave Plummer:** I don't know if it's a very apt description, but I think of it as crisp. So there's not a lot of rough edges. It does what it does, does it snappy and…
@@ -1032,7 +1030,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **## 自闭症与ADHD**
 
 **Lex Fridman:** 你在这台PDP-11上能运行代码吗？另外，你写过几本关于自闭症的书。作为自闭症谱系人士，我很想知道，在你看来，自闭症思维与神经典型（neurotypical）人士的思维根本差异在哪里？  
-**Lex Fridman:** And you can run code on this? You've written a couple books on autism. Being autistic yourself, I was wondering if you could tell me about, like, fundamental differences about the mind of a person with autism versus a, let's say, a neurotypical individual.
+And you can run code on this? You've written a couple books on autism. Being autistic yourself, I was wondering if you could tell me about, like, fundamental differences about the mind of a person with autism versus a, let's say, a neurotypical individual.
 
 **Dave Plummer:** 关于自闭症的核心思维理论叫做"单通道思维"（monotropism）。简单来说，我的大脑一次只做一件事，并且会非常专注地去做，做完之后才能切换到下一件事。我完全不是个能多任务处理的人，无论如何都只是个"串行单任务处理器"。自闭症通常还伴随着感官敏感和重复性行为，行为问题会让情况更复杂。当这些特质严重到个人无法调节或适应生活时，就成了一种障碍。大约有百分之一到二的人口属于这种情况。  
 **Dave Plummer:** Well, the fundamental theory of thought for autism is called monotropism. And basically what that means is that my brain does one thing and does it very intensely, and then when it's done I can move on and do something else. But I'm not a multitasker. I'm a serial single-tasker by any stretch. Autism usually brings with it sensory sensitivities and repetitive behaviors, behavioral issues that compound it. And if they rise to the level where an individual can't moderate or accommodate them in their life, it becomes a disorder. And that's probably one to two percent of the population.
@@ -1095,7 +1093,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Oh, drive me crazy.
 
 **Lex Fridman:** 然后你当然不会……意识到这种纠正在随意的社交互动中可能产生的影响，对你来说并非易事。  
-**Lex Fridman:** And then you, of course you don't… The impact that might have on a casual social interaction, it's not trivial for you to be aware of that.
+And then you, of course you don't… The impact that might have on a casual social interaction, it's not trivial for you to be aware of that.
 
 **Dave Plummer:** 是的。我现在比以前好多了。以前我不知道，也不知道在对话中无意义地插入一个纠正会如何影响对方或让对方有什么感受。现在我对这方面有了更好的感知，但是……  
 **Dave Plummer:** Yeah. I'm much better than I used to be. Before, I didn't know and I didn't know how injecting a correction meaninglessly into a conversation could impact or make the other person feel. Now I have a better sense of it, but…
@@ -1173,7 +1171,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** Right.
 
 **Lex Fridman:** 但是要逆向工程这个，对于一个可能感知不到人类互动中那些细微差别的人来说，是很困难的。  
-**Lex Fridman:** But to reverse engineer that, to figure that out for a person who might not sense those little subtleties of human interaction is tough.
+But to reverse engineer that, to figure that out for a person who might not sense those little subtleties of human interaction is tough.
 
 **Dave Plummer:** 这也是一个切入共情话题的好地方。因为社区里有一种看法，认为自闭症患者缺乏共情能力，但我认为根本不是这样。我只能代表我自己说话。我觉得自己相当有共情能力，但我认为问题出在沟通上，而且是双向的。因为我不知道你的感受，所以很难对此产生共情，除非你告诉我你正在经历什么。一旦我知道了，一旦我理解了你的想法，我可能会非常为你感到难过。但在那之前，我会假设你会像我处在你的位置时那样处理问题——以我目前所知的方式。  
 **Dave Plummer:** That's a good point to jump in there, too, on empathy because there is some perception in the community that people with autism lack empathy, and I don't think that's the case at all. I can only speak for myself. I feel fairly empathetic, but I think the problem is a communication one, and it works in both directions, whereas I don't know how you're feeling, so it's hard for me to be empathetic with it until you communicate to me what it is you're experiencing. And then once I know, once I have an understanding of what's going on in your head, I can feel incredibly sorry for you. But until then, I'm going to assume you're going to handle it just like I would in your position, in my case, with what I know now.
@@ -1191,13 +1189,13 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** No, not yet.
 
 **Lex Fridman:** 好的。如果1到10分，你给我打几分？6分？7分？  
-**Lex Fridman:** All right. What score would you give me out of one to ten? Am I a six? A seven?
+All right. What score would you give me out of one to ten? Am I a six? A seven?
 
 **Dave Plummer:** 7.5分。  
 **Dave Plummer:** 7.5.
 
 **Lex Fridman:** 沟通方面？7.5分？（笑）浮点数。不错。"伪装"（Masking）。你得告诉我那是什么。对许多谱系人士来说，这是一种重要的体验。什么是"伪装"？跟我讲讲你经历过的任何与"伪装"相关的事情。  
-**Lex Fridman:** Communication? 7.5? (laughs) Floating point. Nice. Masking. You got to tell me what that is. It's a significant experience for many on the spectrum. What is masking? And tell me about any of the experiences you've had with masking.
+Communication? 7.5? (laughs) Floating point. Nice. Masking. You got to tell me what that is. It's a significant experience for many on the spectrum. What is masking? And tell me about any of the experiences you've had with masking.
 
 **Dave Plummer:** "伪装"是，可能这个描述不太准确，但它指的是"表现得正常"的行为。也就是说，我如何在社交场合中约束自己，以一种其他神经典型人士能够以正确方式接受和认可的方式行事？你在社交互动中所做的一切，从挥手、做面部表情、语调到姿势，都是一个巨大的刻意为之的行为，而且是项工作。对大多数人来说，这是自然而然的，就是他们的行为方式，而且酷的人做得非常好。但对谱系人士来说，你必须伪装这一切。  
 **Dave Plummer:** So masking is, and it's probably not the right way to describe it, but it's the act of acting normal. And that is, how do I conduct myself in a social situation in a way that other neurotypical people are going to receive and accept it the right way? And everything you do in a social interaction, from waving my hands to making facial expressions to tone of voice to posture, it's a huge contrivance and it's work. So it comes natural to most people, it's just what they do, and cool people do it really well. But for somebody on the spectrum, you've got to fake it all.
@@ -1239,7 +1237,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** I've heard of it. I've not seen it, but I've heard of it.
 
 **Lex Fridman:** 因为某些方面，比如对事物的字面理解，只会让浪漫关系的复杂性在这种情境下更加显化。  
-**Lex Fridman:** Because certain aspects, like literal interpretation of things, it just makes the complexity of romantic relationships even more explicit in that context.
+Because certain aspects, like literal interpretation of things, it just makes the complexity of romantic relationships even more explicit in that context.
 
 **Dave Plummer:** 你知道，我结婚31年了，在一起37年，所以有很长的历史了。我觉得我们第一次意识到我们非常不同，是有天晚上我们坐在房子前的车里，天黑了，街对面有一栋漂亮的房子，房子有一些用锚链连接起来的大砖柱，围成了院子的栅栏。我看着这些东西，因为它们大约两英尺见方，还有顶石，我就在想，"你知道，我在想它们是空心的还是回填了土？"是填了混凝土还是什么？"我现在的妻子看着我说，"你怎么了？""你脑子里怎么会有关心这个的地方？"  
 **Dave Plummer:** You know, I've been married 31 years and together for 37, so a long history there, and I think our first indication that we knew we were very different was we were sitting in the car one night out front of the house at dark and across the street there's kind of a nice house, and it has these big brick pillars that are linked by, like, anchor chains and it forms a fence around the yard. And I'm looking at these things 'cause they're about two feet square and they got capstone and I'm like, "You know, I wonder if they're hollow or are they backfilled?" Are they filled with concrete or what?" And my now wife looks at me and she's like, "What's wrong with you?" "Why do you have a place in your head that cares about that?"
@@ -1287,7 +1285,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** I think it’s that single-minded focus and the ability to reduce a problem, and to be ultimately curious about what’s inside stuff. That’s been an obsession for me my whole life: what’s inside? I gotta take my mom’s oven apart because I gotta know how the flip clock works. And I think that’s a good habit to have if you’re gonna be a programmer.
 
 **Lex Fridman:** 还有那种愿意、甚至是兴奋地去钻研细节的劲头。是啊。你今年希望编程打造什么酷东西？你在忙什么？我们刚才提到用强化学习玩《Tempest》的项目。顺便问一下，那个项目进展如何了？比如，预计什么时候能成功并实现“通关”？  
-**Lex Fridman:** And being willing, being excited to get into the details. Yeah. What’s a cool thing you hope to program to build this year? What are you working on? So we got the RL learning how to play Tempest. Where are you on that, by the way? Like, what’s the ETA on success and dominance? Like victory?
+And being willing, being excited to get into the details. Yeah. What’s a cool thing you hope to program to build this year? What are you working on? So we got the RL learning how to play Tempest. Where are you on that, by the way? Like, what’s the ETA on success and dominance? Like victory?
 
 **Dave Plummer:** 嗯，已经接近成功了。我觉得现在主要是调整模型大小、层数之类的参数，让它能突破某个瓶颈。不过，你知道，这大概是几千行Lua代码加几千行Python代码，它们都能交互并正常工作，所以现在95%的工作已经完成了。剩下的就是调参和期待好结果了。  
 **Dave Plummer:** Well, it’s very close to working. I think now it’s tweaking the model size and layers and stuff like that to get it to learn past the one threshold. But, you know, it’s a couple thousand lines of Lua and it’s a couple thousand lines of Python, and they all interact and they all work, so it’s like 95% of the work is done now. It’s tuning hyperparameters and hoping for the best.
@@ -1391,7 +1389,7 @@ Also, he wrote a book on autism, and about his life story, called Secrets of the
 **Dave Plummer:** I do. I don't want to say prompt engineer, but I think it's going to be something like that in the sense that if you're an architect building a bridge, at some point, guys were down there welding beams together, but now you're dragging things around in AutoCAD and assembling from big pre-formed sections. And I assume that's what programming will be like. You won't be in there throwing individual lines of code around; you'll be moving components and interfaces and describing to the AI what those interactions should be and letting it build the components. But I think we're still quite a ways from it being able to whole cloth generate… You can't say, "Give me a Linux kernel that's compatible with Linux." One day, we'll be able to, and it'll crank it out, but we're not there yet.
 
 **Lex Fridman:** 抽象层提升得这么快，会让人失落吗？你从机器码、汇编一路走到C/C++，现在居然要用自然语言"感觉流编程"了。  
-**Lex Fridman:** Does it make you sad that we're climbing the layers of abstraction so quickly so you, somebody that used to do machine code and then assembly, then C and C++, that we're getting to a point where we're vibe coding with natural language?
+Does it make you sad that we're climbing the layers of abstraction so quickly so you, somebody that used to do machine code and then assembly, then C and C++, that we're getting to a point where we're vibe coding with natural language?
 
 **Dave Plummer:** 其实我很庆幸生在这个时代。40年间我从TTL逻辑电路一路玩到AI编程，中间每个环节都亲手摸过。现在的人很难再获得这种完整的知识图谱了——除非他们也活这么久。  
 **Dave Plummer:** Yeah, I kind of came up at a really fortunate time, I think, because I had to come up with the technology over the course of 30 or 40 years, so I understand TTL logic, and I can use AI to write code, and I kind of know all the pieces in between. There certainly are holes in my knowledge, but I think the only way to have got that level of knowledge or the completeness of that picture is to have lived it for that long. And it's going to be hard to duplicate that for people starting now.
