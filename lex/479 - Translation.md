@@ -84,6 +84,8 @@ Tell me about your first computer. Do you remember?
 **Dave Plummer:** 记得特别清楚。虽然很久后才真正拥有自己的电脑，但第一次接触是台TRS-80 Model 1基础版，4K内存。那时我大概十一岁，读五六年级，经常骑车去当地的RadioShack商店。店里除了音响设备，有次堆着几个标着"电脑"的箱子。我问店员，他们说刚进货还没拆封。我当时胆子挺大，就说"要不我帮你们组装？"他们居然答应了："行啊，你试试看。"  
 I do. I didn't own my first computer for a long time, but the first computer I ever used was a TRS-80 Model 1, Level 1, 4K machine, and I rode my bike in fifth or sixth grade, so I was about 11, to the local RadioShack. They had the standard component stereo systems, everything else RadioShack had, but they had a stack of boxes that was labeled "computer." So I was asking the people who worked there about it, and they said they just got it and they hadn't set it up yet. I was rather precocious and I figured, "Well, I'll set it up for you," and they said, "Okay. Have a shot."
 
+<!--图 1：34 -->
+
 **Lex Fridman:** 当时知道怎么组装吗？  
 Did you know what you were doing?
 
@@ -99,7 +101,7 @@ Didn't know any better. And I still have an old foolscap that I wrote in sixth g
 **Lex Fridman:** 具体是哪年？  
 When was this?
 
-79到80年左右。  
+**Dave Plummer:** 79到80年左右。  
 '79, '80.
 
 **Lex Fridman:** 那时候电脑发展到什么水平了？  
@@ -108,32 +110,47 @@ Okay. What was the state of the art of computing back then? So what are we talki
 **Dave Plummer:** 三大主流机型刚问世：TRS-80 Model 1、PET 2001和苹果II差不多同期出现。  
 Well, the big three had come out. There was the TRS-80 Model 1, there was the PET 2001, and the Apple II came out roughly simultaneously.
 
+<!-- pic 3:00-->
+
 **Lex Fridman:** 苹果II算得上最伟大的电脑吗？  
 Apple II. Would you say that's the greatest computer ever built?
 
 **Dave Plummer:** 事后看也许吧。不过我个人更倾向Commodore 64。  
 Probably in retrospect. Well, I would probably give that to the Commodore 64.
 
+
 **Lex Fridman:** 咱俩看法一致！那也是我的第一台电脑，虽然是在它发布多年后才用的。Commodore 64确实惊艳，不过苹果II对个人电脑历史影响更大。  
-Yeah. You and I agree on this, that that was my first computer probably many years after it was released, but yeah, Commodore 64's incredible. But yes, Apple II had a huge impact on the history of personal computers.
+Yeah. You and I agree on this, that was my first computer probably many years after it was released, but yeah, Commodore 64's incredible. But yes, Apple II had a huge impact on the history of personal computers.
+
+> *Commodore 64 是一款 8 位家用电脑，于 1982 年发布，是有史以来最畅销的单一电脑型号。*
+> *The Commodore 64 was an 8-bit home computer released in 1982 that became the best-selling single computer model of all time.*
+
 
 **Dave Plummer:** 长远影响难量化，但我觉得64可能影响了更多人。  
 Right. It's hard to gauge the long-term impact, but I think the 64 itself probably influenced more people, so that's my reason for picking that one.
 
-**Lex Fridman:** 销量更高？  
-You think so? The sales were certainly higher.
+<!-- pic 3:27-->
+
+**Lex Fridman:** 你这么觉得？  
+You think so? 
+
+**Dave Plummer:** 销量看肯定更高。
+The sales were certainly higher.
+
+**Lex Fridman**: So Commodore 64 sold a lot? 
 
 **Dave Plummer:** 对，数字惊人。不同统计口径都显示销量非常高。  
 Yeah. I mean, the numbers are hard to believe. It depends which numbers you believe, but even the medium estimates were pretty high.
+<br>
 
 **Lex Fridman:** 后来你也用上Commodore 64了？聊聊在那台机器上做什么吧。  
 All right, cool. So you eventually graduated to the Commodore 64. Tell me about that machine. What did you do on the Commodore 64?
 
 **Dave Plummer:** 首秀就把软驱烧了——因为是从电脑小店买的二手货，坏了得寄回德国修。我只能用磁带录音机存储程序，靠着机器语言监视器，用十六进制输入6502操作码写基础程序。  
-Well, the first thing I did was overheat the floppy drive on it, which was unfortunate because it wasn't a warranty machine. My parents didn't have a lot of money so we bought it from Computer House as opposed to one of the major retailers, which meant when it died, it had to go back to Germany or something to be fixed. So I was left with no floppy and so I had a cassette deck, which was the best you could do at the time, and so I was writing small things, and I had a machine language monitor that you could load from cassette. It didn't have an assembler built in, but it had a disassembler, so you could enter the op codes in 6502 in hex, and if you were careful about planning, you'd be able to write some basic programs.
+Well, the first thing I did was overheat the floppy drive on it, which was unfortunate because it wasn't a warranty machine. My parents didn't have a lot of money so we bought it from Computer House as opposed to one of the major retailers, which meant when it died, it had to go back to Germany or something to be fixed. So I was left with no floppy and so I had a cassette deck, which was the best you could do at the time, and so I was writing small things, and I had a machine language monitor that you could load from cassette. It didn't have an assembler built in, but it had a disassembler, so you could enter the opcodes in 6502 in hex, and if you were careful about planning, you'd be able to write some basic programs.
 
 **Dave Plummer:** 我第一个作品是《Galaga》的克隆版。虽然粗糙但有敌机攻击功能，全是手写机器语言。6502代码不能重定位，要在中间加代码得手动跳转，简直像意大利面条一样混乱。最后居然能运行了，我想备份时却把空白盘内容复制到了数据盘上——这就是我的数据管理初体验。  
-So that's kind of how I learned, and the first thing I ever wrote on it was a clone of Galaga. Now, it's a bad clone of Galaga, but it has the major enemies that attack over time, and it's all written in hand-coded machine language, and you can't relocate 6502, so if you need to add code in the middle, you need to manually sort of jump to somewhere else, do your work, jump back to where you were. It's just hideous spaghetti code. But it all worked eventually, and I went to make a backup of it to preserve it for future scholars or whatever the hell I was doing. And I copied my blank floppy onto my data floppy. So that was my first experience with data management.
+So that's kind of how I learned, and the first thing I ever wrote on it was a clone of Galaga. Now, it's a bad clone of Galaga, but it has the major enemies that attack over time, and it's all written in hand-coded machine language, and you can't relocate 6502, so if you need to add code in the middle, you need to manually sort of jump to somewhere else, do your work, jump back to where you were. It's just hideous *spaghetti code*. But it all worked eventually, and I went to make a backup of it to preserve it for future scholars or whatever the hell I was doing. And I copied my blank floppy onto my data floppy. So that was my first experience with data management.
 
 **Lex Fridman:** 哦不……  
 Oh, no.
@@ -162,7 +179,7 @@ Not assembly yet because there was no assembler built in, so I should have writt
 **Lex Fridman:** 写汇编器难吗？  
 How hard is that to do?
 
-**Dave Plummer:** 很简单，就像学C语言语法一样，一旦掌握就忘不掉。  
+**Dave Plummer:** 简单直接，就像学C语言语法一样，一旦掌握就忘不掉。  
 Trivial, and it's one of those things that sticks, I think. You do it so many times. You know, if I give you a C issue, there are certain syntactic issues in C that you're never going to forget and get wrong. And it's just one of those.
 
 **Lex Fridman:** 用机器码编程有什么局限？  
@@ -266,16 +283,20 @@ What can you speak to maybe by way of advice on how to be successful as a studen
 **Dave Plummer:** 我觉得最重要的是找到学校里真正让你热爱的领域——无论是艺术、计算机科学还是手工课。全力投入这些课程，同时也要耐心对待那些必修的困难科目。现在补上这些课，远比将来重新捡起要容易得多。我作为五十多岁的人说这话可能显得轻松，对十五岁的孩子来说确实难以体会，但...这确实是肺腑之言。  
 Well, ideally, there’s some aspect of school that you do enjoy, whether it’s art, whether it’s computer science, whether it’s shop class, whatever. So, go for those classes and just put up with and do the hard stuff because it’s way easier than having to do it later, and that’s easy to say when you’re 50-something. It’s harder to say when you’re 15-something, but— … it makes a lot of sense.
 
-**Lex Fridman:** 谢谢你的真诚分享。我很好奇你是如何从7-Eleven店员一步步走进微软的？这个转变听起来像个奇迹。  
+## <font color="#002060">加入微软 - Joining Microsoft </font>
+
+**Lex Fridman:** 来聊聊你加入微软的故事吧？你是怎么从7-Eleven便利店一路走到微软的？” 
 All right. What’s the story of you joining Microsoft? How did we get there from 7-Eleven to Microsoft?
 
-**Dave Plummer:** 确实是个巨大的跨越。我重返校园后，大概在大学三年级暑假，我在电话公司做暑期工，负责把他们的UBNet网络升级到TCP/IP。这工作听起来高大上，其实主要就是换网卡，然后排查为什么换了配置后Lotus软件就跑不起来了——那个年代搞计算机真是各种折腾，但我还是坚持下来了。午休时，我常和同事们坐在美食广场，读一本叫《微软：比尔·盖茨与微软硬盘驱动器的诞生》的书。  
-Yeah, it’s a big jump. So, I had gone back to school, and I think it was in my third year of university. I was working for the phone company for the summer as a summer job, and I’m doing conversions of their UBNet to TCP/IP and modern networking, which really amounts to swapping cards but then figuring out why their config.sys doesn’t allow Lotus to run anymore because it’s got 10K less than it used to, and it’s just a horrible time to be working in computers, but I was doing it. And at lunch, I’m sitting in the food court with the old and the bored, and I’m reading a book that I had bought called “Microsoft or Bill Gates and the Making of Microsoft Hard Drive,” I think is the title. And it’s a great book.
+**Dave Plummer:** 确实是个巨大的跨越。我重返校园后，大概在大学三年级暑假，我在电话公司做暑期工，负责把他们的UBNet网络升级到TCP/IP。这工作听起来高大上，其实主要就是换网卡，然后排查为什么换了配置后Lotus软件就跑不起来了——那个年代搞计算机真是各种折腾，但我还是坚持下来了。午休时，我常和同事们坐在美食广场，读一本叫《比尔‧盖兹与微软帝国的创建》（“Hard Drive: Bill Gates and the Making of the Microsoft Empire”）的书。  
+Yeah, it’s a big jump. So, I had gone back to school, and I think it was in my third year of university. I was working for the phone company for the summer as a summer job, and I’m doing conversions of their UBNet to TCP/IP and modern networking, which really amounts to swapping cards but then figuring out why their config.sys doesn’t allow Lotus to run anymore because it’s got 10K less than it used to, and it’s just a horrible time to be working in computers, but I was doing it. And at lunch, I’m sitting in the food court with the old and the bored, and I’m reading a book that I had bought called “Microsoft or Bill Gates and the Making of Microsoft Hard Drive,” (“Hard Drive: Bill Gates and the Making of the Microsoft Empire”) I think is the title. And it’s a great book.
+
+<!--  -->
 
 **Dave Plummer:** 这本书用非常朴实的笔触讲述了微软的创业史和企业文化。我读得如痴如醉，因为那里的一切都让我心驰神往——但问题是，我住在偏远的萨斯喀彻温省，这梦想显得那么不切实际。不过我是个行动派，大学期间我靠自学开发了一个叫HyperCache的软件来赚取生活费，这是为Amiga电脑设计的文件系统缓存工具，因为Amiga系统本身没有这个功能，没想到还挺受欢迎。  
 It’s just sort of a matter-of-fact history of how Microsoft came to be, what it’s like, how it operates, what the people are like there. And I’m reading this book, and I become really entranced by it and fascinating because it sounds like exactly the place that I want to be, but I’m in Saskatchewan, so what am I going to do about it? And what I wound up doing was, I had put myself through school with a program called HyperCache, which is a file system cache for the Amiga because the Amiga didn’t have any out of the box, and it had done reasonably well.
 
-**Dave Plummer:** 于是我做了件很直接的事——翻出所有用户注册卡（那时是共享软件，用户会填卡寄回获取更新通知），一张张寻找邮箱地址带"microsoft"字样的人。最后找到三四个，我就直接发邮件自我介绍："我是萨斯喀彻温省一个学操作系统的学生，正在寻找机会。"现在回想起来，那封信写得可能很青涩。  
+**Dave Plummer:** 于是我做了件很直接的事——翻出所有用户注册卡（那时是共享软件，用户会填卡寄回获取更新通知），一张张寻找邮箱地址带"microsoft"字样的人。最后找到三四个，我就直接发邮件自我介绍："我是萨斯喀彻温省一个学操作系统的学生，正在寻找机会。" 我都不记得我都具体怎么说的了。 
 So, I went through my registration cards, because in those days you had a four-by-six card that people had to fill out with their name and their address and, if they had an email, their email, and they’d send it in, they’d get notifications of updates and so on. Well, it’s shareware. And I went through the whole stack looking for anybody with a Microsoft email address, and I found maybe three or four people, and I just cold-emailed them and said, “Hey, I’m an operating system student in Saskatchewan looking for an opportunity.” I don’t remember exactly what I said.
 
 **Dave Plummer:** 幸运的是，一位叫阿拉斯代尔·班克斯的先生回信了，他说："我可以帮你引荐一个人。"通过他的介绍，我联系上了本·斯利夫卡，经过电话面试，他们决定暑假让我参与MS-DOS项目。就这样，我意外地敲开了微软的大门。  
@@ -296,8 +317,8 @@ Yeah, it made decent money. I mean, I sold a couple thousand copies. At 20 bucks
 **Lex Fridman:** 是用什么语言开发的？  
 What program, what language was it written in?
 
-**Dave Plumme:** 主要用C语言。性能关键部分用了68,000汇编语言，确保数据缓存交换的效率，其他部分都是C语言实现。  
-C. So there were some assemblers. The actual really tight code to do the real work of transferring data to and from the cache was 68,000 assembly. Everything else was C.
+**Dave Plumme:** 主要用C语言。性能关键部分用了68000汇编语言，确保数据缓存交换的效率，其他部分都是C语言实现。  
+C. So there were some assemblers. The actual really tight code to do the real work of transferring data to and from the cache was 68000 assembly. Everything else was C.
 
 **Lex Fridman:** 是类似文件系统输入输出的底层操作吗？  
 Okay. This is like file system I/O?
@@ -306,12 +327,12 @@ Okay. This is like file system I/O?
 Device block I/O. So any block that gets serviced from the drive would go through my cache first, and it was an N-way associative cache, and so it would try to match the geometry of the drive and do pre-fetch based on you're trying to read a whole track at one time, that kind of thing.
 
 **Lex Fridman:** 我特别好奇，在互联网还不发达的年代，你是怎么把软件推广出去的？  
-What was it like trying to get your software out there at that time? How were you able to find customers?
+What was it like, trying to get your software out there at that time? How were you able to find customers?
 
-**Dave Plummer:** （眼神温暖地回忆）这个过程很有意思。我最初是在Usenet和Amiga论坛上发帖，提供30天试用版让大家体验。后来渐渐有了口碑，被几家零售商看中。我永远记得那个场景：我和现在的妻子坐在她的车里，她那时有个手机——因为她父亲特别担心她的安全。那是80年代末，车顶装着天线，后备箱里放着硕大的手机主机。突然接到一家软件零售商的电话，要采购50份，每份20美元。对当时的我来说，1000美元简直是天文数字。后来陆续又有几家公司批量采购，就这样慢慢做了起来。  
+**Dave Plummer:** 过程挺有意思的。我最初是在Usenet和Amiga论坛上发帖，提供30天试用版让大家体验。后来渐渐有了口碑，被几家零售商看中。我永远记得那个场景：我和现在的妻子坐在她的车里，她那时有个手机——因为她父亲特别担心她的安全。那是80年代末，车顶装着天线，后备箱里放着硕大的手机主机。突然接到一家软件零售商的电话，要采购50份，每份20美元。对当时的我来说，1000美元简直是天文数字。后来陆续又有几家公司批量采购，就这样慢慢做了起来。  
 Yeah, it's interesting. I think I started on Usenet and some of the Amiga forums, posted, "Here's my trial version, try it out for 30 days, see what you like." And eventually it got picked up by a few retailers, and I remember I was with my… Now wife in her car, and she had a cell phone, because her dad was very concerned about her safety. And so this is late '80s, and she's got, you know, the antenna on the roof and the big box in the trunk, the whole deal. But we got a call from one of the software retailers that wanted to buy 50 copies at… 20 Bucks, which to me is a thousand bucks, which in 1989 or whatever year it is was a big deal. And so eventually a number of companies just bought inventory.
 		
-## <font color="#002060">加入微软 - Joining Microsoft </font>
+<br>
 		
 **Lex Fridman:** 咱们聊聊那个年代吧。比尔·盖茨和微软的崛起期太有意思了。你觉得当时微软为什么能统治软件和个人电脑领域，而且这种优势还能持续几十年？  
 Let's go to that time. It's such an interesting time with Bill Gates and Microsoft. Why do you think Microsoft was dominating the software and the personal computing space at that time and, and really for many, many, many years after?
@@ -325,7 +346,7 @@ Okay. What about Bill Gates himself? What are some qualities of Bill Gates that 
 **Dave Plummer:** 他对"让每个家庭、每张桌子都有电脑"这个梦想的追求简直是不遗余力。他非常聪明且极度坚定，更关键的是他招募了和他一样甚至更聪明的人，组建了一支近乎无敌的智力军团。他们做的产品其实很简单，像MS-DOS并不复杂，但恰好是那个时代市场最需要的东西。  
 I think he was relentless in the pursuit of his one dream, which was his old slogan of a computer in every home and a computer on every desk. It was his special interest, and he was a smart guy, super determined, and he hired people that were as smart or smarter than him to help him execute it. And he built an almost unstoppable machine of intellect to go forth and make, let's say, very simple products. MS-DOS is not a complicated product by any stretch, but it's exactly what the market needed at that time.
 
-MS-DOS确实改变了游戏规则。你加入的正是MS-DOS团队，而且是在Windows 95发布之前？聊聊MS-DOS的故事吧，它的成功应该是微软崛起的关键。  
+**Lex Fridman:** MS-DOS确实改变了游戏规则。你加入的正是MS-DOS团队，而且是在Windows 95发布之前？聊聊MS-DOS的故事吧，它的成功应该是微软崛起的关键。  
 MS-DOS changed the game. And that's actually the team you joined, the MS-DOS team, and I think you joined before Windows 95. Was released. So tell me about the story of MS-DOS. Its success is probably pivotal to the success of Microsoft.
 
 **Dave Plummer:** 在DOS之前微软主要是语言公司，给各种电脑做BASIC、Fortran和Pascal编译器。但他们让MS-DOS成为每台PC标配的协议，这实际上确立了一个能沿用几十年的标准。这里面有运气成分，但也是步妙棋——虽然没向IBM收多少钱，但成为标准带来的长期优势太大了。  
@@ -357,9 +378,9 @@ Yeah, 640K is the maximum that's ever gonna be available, so it's not what's ava
 **Lex Fridman:** 比尔·盖茨是不是真的说过那句有名的话？  
 Is that a true quote from Bill Gates, where he said,
 
-"640K内存对任何人都足够了"？不，不是他说的。这话被安在他头上，但不是真的。  
+**Dave Plummer:** "640K内存对任何人都足够了"？不，不是他说的。这话被安在他头上，但不是真的。  
 Nobody will ever need more than 640K? Yeah, no, it's not him. It's been attributed to him, but not real.
-
+<br>
 **Lex Fridman:** 你作为实习生加入MS-DOS团队后，做了哪些有意思的工作？  
 What are some interesting aspects of what you were able to do as an intern and when you joined on MS-DOS and beyond?
 
